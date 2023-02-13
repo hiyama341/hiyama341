@@ -4,6 +4,4 @@ I'm an avid biology enthusiast with a keen interest in metabolic engineering. Ho
 
 Another area of interest for me is high-throughput strain construction. With the power of software development, we can streamline and automate the process of strain construction, allowing for faster and more efficient results. By combining this with literate programming, we can create a truly powerful and reproducible system for the construction of high-throughput strains, enabling us to push the boundaries of what's possible in the field of metabolic engineering.
 
-If you're someone who shares my vision and is looking to collaborate on any projects related to software development in the realm of biology and metabolic engineering, then I'd love to hear from you. Together, we can push the boundaries of what's possible and unlock the full potential of this incredible field. 
-
-Feel free to check out my repositories on GitHub. I'm always looking for like-minded individuals to join me on this exciting journey towards a more democratized approach to bioengineering.
+Feel free to check out my repositories on GitHub. I've made a python package in colab with researchers at DTU bioengineering called [teemi](https://github.com/hiyama341/teemi) to that utlizes literate programming for biology. I'm always looking for like-minded individuals to join me on this exciting journey towards a more democratized approach to bioengineering - so please reach out.
