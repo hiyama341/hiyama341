@@ -1,9 +1,10 @@
 Hey there! 
 
-I'm an avid biology enthusiast with a keen interest in metabolic engineering. However, recently, I've been exploring the fascinating world of software development and I must say, I'm hooked! In fact, I'm currently learning as much as I can about it. 
+As a PhD student at DTU, I'm currently exploring the integration of Python into the field of biology, specifically in high-throughput strain construction. 
 
-Another area of interest for me is high-throughput strain construction. With the power of software development, we can streamline and automate the process of strain construction, allowing for faster and more efficient results. By combining this with literate programming, we can create a truly powerful and reproducible system for the construction of high-throughput strains, enabling us to push the boundaries of what's possible in the field of metabolic engineering.
+To that end, I've collaborated with researchers at DTU to create a Python package called [teemi](https://github.com/hiyama341/teemi), which utilizes literate programming for HT strain engineering.
 
-Feel free to check out my repositories on GitHub. I've made a python package in colab with researchers at DTU called [teemi](https://github.com/hiyama341/teemi) that utlizes literate programming for HT strain engineering.
+Feel free to check out my repositories on GitHub or contact me through email if you're interested in collaborating with me on this exciting area of research. I'm always looking for exciting collaborations - so please don't hesitate to reach out.
 
-I'm always looking for like-minded individuals to join me on this exciting journey towards a more democratized approach to bioengineering - so please reach out.
+Email : luclev@dtu.dk
+
